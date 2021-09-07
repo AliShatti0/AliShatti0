@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AliShatti0
 - 👀 I’m interested in circuit design!
-- 🌱 I’m currently learning more anout FPGA
+- 🌱 I’m currently learning more about FPGA
 - 📫 How to reach me: @ali.alshatti.512@my.csun.edu
 
 <!---
